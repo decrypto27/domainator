@@ -1,0 +1,32 @@
+{
+  "name": "domainator",
+  "version": "1.0.0",
+  "description": "A minimalistic module that extracts domain name from a given url. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/decrypto27/domainator.git"
+  },
+  "keywords": [
+    "url",
+    "domain"
+  ],
+  "author": "Vijay Kumar Attri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/decrypto27/domainator/issues"
+  },
+  "homepage": "https://github.com/decrypto27/domainator#readme",
+  "devDependencies": {
+    "chai": "^4.1.1",
+    "mocha": "^3.5.0"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1"
+  }
+}
