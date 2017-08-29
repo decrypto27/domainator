@@ -14,6 +14,12 @@ Domainator is a minimalisitic node module for extracting the domain name from a 
   - Majority of time consumed for cache population. First call is deferred, rest are just cache access operation.
   - Supports single and batch calls for querying the domain names.
 
+### Usage
+
+[![Usage](https://drive.google.com/file/d/0B63Gu8c_sXyiU2VsbGlTdmx2ZXc/view?usp=sharing)](https://drive.google.com/file/d/0B63Gu8c_sXyiU2VsbGlTdmx2ZXc/view?usp=sharing)
+[![Usage](https://drive.google.com/file/d/0B63Gu8c_sXyiX21oRkduMldWUUE/view?usp=sharing)](https://drive.google.com/file/d/0B63Gu8c_sXyiX21oRkduMldWUUE/view?usp=sharing)
+
+
 ### Dependencies
 
 Domainator uses a number of node modules to work properly:
@@ -52,4 +58,13 @@ License
 
 MIT
 
-**Built for fun**
+
+**Free Software, Hell Yeah!**
+
+[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
+
+
+   [Bluebird]: <http://bluebirdjs.com/docs/getting-started.html>
+   [Request-promise]: <https://www.npmjs.com/package/request-promise>
+
+
