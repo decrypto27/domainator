@@ -15,9 +15,8 @@ Domainator is a minimalisitic node module for extracting the domain name from a 
   - Supports single and batch calls for querying the domain names.
 
 ### Usage
-
-[![Usage](https://drive.google.com/file/d/0B63Gu8c_sXyiU2VsbGlTdmx2ZXc/view?usp=sharing)](https://drive.google.com/file/d/0B63Gu8c_sXyiU2VsbGlTdmx2ZXc/view?usp=sharing)
-[![Usage](https://drive.google.com/file/d/0B63Gu8c_sXyiX21oRkduMldWUUE/view?usp=sharing)](https://drive.google.com/file/d/0B63Gu8c_sXyiX21oRkduMldWUUE/view?usp=sharing)
+![screenshot from 2017-08-29 13 10 28](https://user-images.githubusercontent.com/11781630/29813308-57c52ce2-8cc7-11e7-8fb8-ed4143358c42.png)
+![screenshot from 2017-08-29 13 12 34](https://user-images.githubusercontent.com/11781630/29813328-62bfa5fa-8cc7-11e7-8cbf-4e8749a76a89.png)
 
 
 ### Dependencies
@@ -25,13 +24,11 @@ Domainator is a minimalisitic node module for extracting the domain name from a 
 Domainator uses a number of node modules to work properly:
 
 * [Bluebird] - A blazing fast promise library
-* [Request-promise] - awesome web-based text editor
+* [Request-promise] - promisified request library
 
 ### Installation
 
 Domainator requires [Node.js](https://nodejs.org/) v6+ to run.
-
-Install the dependencies and devDependencies and start the server.
 
 ```sh
 $ npm install domainator
